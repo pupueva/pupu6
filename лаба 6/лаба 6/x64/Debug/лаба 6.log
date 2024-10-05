@@ -1,0 +1,12 @@
+﻿  6лаба.c
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(37,31): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(37,31): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "2" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(37,31): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "3" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(39,36): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(39,36): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "2" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(39,36): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "3" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(41,14): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(41,14): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "2" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(41,14): warning C4477: "printf": в строке форматирования "%lf" требуется аргумент типа "double", но вариативный аргумент "3" имеет тип "int"
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(44,2): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\Любовь\source\repos\лаба 6\лаба 6\6лаба.c(35,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
